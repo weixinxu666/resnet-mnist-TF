@@ -3,3 +3,6 @@
 
 ## 实现平台kaggle:
 https://www.kaggle.com/weixinxu666/residual-networks-and-mnist
+
+## 深度残差网络
+![avatar]()
